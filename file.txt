@@ -52,7 +52,7 @@
 				</div>
 			</div>
 		</div>
-
+		<!-- Here is a new comment -->
 		<!-- Most Recent Member Panel -->
 		<div class="col-lg-6">
 			<div class="panel panel-default">
