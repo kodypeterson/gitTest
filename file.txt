@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<!-- NEW CHANGE -->
 	<meta charset="UTF-8">
 	<title>Sign-Up Today!</title>
 	<!-- THIS IS A CHANGE -->
